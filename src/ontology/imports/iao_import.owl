@@ -211,7 +211,6 @@ DisjointClasses(<http://purl.obolibrary.org/obo/BFO_0000003> ObjectSomeValuesFro
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/BFO_0000004> "independent continuant"@en)
 SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000004> <http://purl.obolibrary.org/obo/BFO_0000002>)
 DisjointClasses(<http://purl.obolibrary.org/obo/BFO_0000004> <http://purl.obolibrary.org/obo/BFO_0000020>)
-DisjointClasses(<http://purl.obolibrary.org/obo/BFO_0000004> <http://purl.obolibrary.org/obo/BFO_0000031>)
 
 # Class: <http://purl.obolibrary.org/obo/BFO_0000016> (disposition)
 
@@ -235,7 +234,6 @@ SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000019> <http://purl.obolibrary.
 
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/BFO_0000020> "specifically dependent continuant"@en)
 SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000020> <http://purl.obolibrary.org/obo/BFO_0000002>)
-DisjointClasses(<http://purl.obolibrary.org/obo/BFO_0000020> <http://purl.obolibrary.org/obo/BFO_0000031>)
 
 # Class: <http://purl.obolibrary.org/obo/BFO_0000023> (role)
 
@@ -440,8 +438,8 @@ ClassAssertion(<http://purl.obolibrary.org/obo/IAO_0000225> <http://purl.obolibr
 
 DifferentIndividuals(<http://purl.obolibrary.org/obo/IAO_0000120> <http://purl.obolibrary.org/obo/IAO_0000121> <http://purl.obolibrary.org/obo/IAO_0000122> <http://purl.obolibrary.org/obo/IAO_0000123> <http://purl.obolibrary.org/obo/IAO_0000124> <http://purl.obolibrary.org/obo/IAO_0000125> <http://purl.obolibrary.org/obo/IAO_0000423> <http://purl.obolibrary.org/obo/IAO_0000428>)
 DifferentIndividuals(<http://purl.obolibrary.org/obo/IAO_0000226> <http://purl.obolibrary.org/obo/IAO_0000227> <http://purl.obolibrary.org/obo/IAO_0000228> <http://purl.obolibrary.org/obo/IAO_0000229>)
-DLSafeRule(Body(ClassAtom(<http://purl.obolibrary.org/obo/BFO_0000016> Variable(<urn:swrl:var#d>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000053> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000091> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>))))
-DLSafeRule(Body(ClassAtom(<http://purl.obolibrary.org/obo/BFO_0000019> Variable(<urn:swrl:var#d>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000053> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000086> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>))))
-DLSafeRule(Body(ClassAtom(<http://purl.obolibrary.org/obo/BFO_0000023> Variable(<urn:swrl:var#d>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000053> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000087> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>))))
-DLSafeRule(Body(ClassAtom(<http://purl.obolibrary.org/obo/BFO_0000034> Variable(<urn:swrl:var#d>)) ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000053> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000085> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>))))
+DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000053> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>)) ClassAtom(<http://purl.obolibrary.org/obo/BFO_0000016> Variable(<urn:swrl:var#d>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000091> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>))))
+DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000053> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>)) ClassAtom(<http://purl.obolibrary.org/obo/BFO_0000019> Variable(<urn:swrl:var#d>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000086> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>))))
+DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000053> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>)) ClassAtom(<http://purl.obolibrary.org/obo/BFO_0000023> Variable(<urn:swrl:var#d>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000087> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>))))
+DLSafeRule(Body(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000053> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>)) ClassAtom(<http://purl.obolibrary.org/obo/BFO_0000034> Variable(<urn:swrl:var#d>)))Head(ObjectPropertyAtom(<http://purl.obolibrary.org/obo/RO_0000085> Variable(<urn:swrl:var#e>) Variable(<urn:swrl:var#d>))))
 )
