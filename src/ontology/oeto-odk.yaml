@@ -1,0 +1,43 @@
+## ontology metadata ##
+id: oeto
+title: Open Energy Tasks Ontology
+description: "TBD."
+contact:  mirjam.stappel [at] uni-osnabrueck [.] de
+license: http://creativecommons.org/publicdomain/zero/1.0/
+license: https://opensource.org/license/mit
+
+## general ODK Settings ##
+github_org: OpenEnergyPlatform
+repo: open-energy-tasks-ontology
+git_main_branch: production
+uribase: https://purl.org/oeto/ontology 
+reasoner: HermiT
+components:
+  base_iris: https://purl.org/oeto/ontology/oeto.owl
+  create_obo_metadata: false
+  dosdp_tools_options: --prefixes=mhpo_prefixes.yaml
+release_artefacts:
+  - base
+  - full
+primary_release: full
+export_formats:
+  - owl
+  - json
+import_group:
+  products:
+    - id: iao
+      mirror_from: https://raw.githubusercontent.com/information-artifact-ontology/IAO/v2026-03-30/iao.owl
+    - id: oeo
+      mirror_from: https://openenergyplatform.org/ontology/oeo/
+      module_type: slme
+      module_type_slme: STAR
+      slme_individuals: exclude
+robot_java_args: "-Xmx8G"
+robot_report:
+  use_labels: TRUE
+  fail_on: ERROR
+  custom_profile: TRUE
+  report_on:
+    - edit
+documentation:
+  documentation_system: mkdocs
