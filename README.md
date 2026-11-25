@@ -4,17 +4,12 @@
 
 Description: TBD.
 
-More information can be found at http://obofoundry.org/ontology/oeto
+More information can be found at TBD
 
 ## Versions
 
 ### Stable release versions
-
-The latest version of the ontology can always be found at:
-
-https://purl.org/oeto/ontology/oeto.owl
-
-(note this will not show up until the request has been approved by obofoundry.org)
+TBD
 
 ### Editors' version
 
