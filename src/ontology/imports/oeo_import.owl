@@ -466,7 +466,7 @@ SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000030> <http://purl.obolibrary.
 SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000088> <http://purl.obolibrary.org/obo/IAO_0000310>)
 SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000088> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00020188> <https://openenergyplatform.org/ontology/oeo/OEO_00010412>))
 
-# Class: <http://purl.obolibrary.org/obo/IAO_0000100> (<http://purl.obolibrary.org/obo/IAO_0000100>)
+# Class: <http://purl.obolibrary.org/obo/IAO_0000100> (homogenous data collection)
 
 SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000100> <http://purl.obolibrary.org/obo/IAO_0000027>)
 SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000100> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00000514> <https://openenergyplatform.org/ontology/oeo/OEO_00020121>))
@@ -660,7 +660,6 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openen
 AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020097> "scenario year"@en)
 SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020097> <https://openenergyplatform.org/ontology/oeo/OEO_00030033>)
 SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020097> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000050> <https://openenergyplatform.org/ontology/oeo/OEO_00020098>))
-SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020097> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> ObjectIntersectionOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030035> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00040010> <http://purl.obolibrary.org/obo/UO_0000036>) DataHasValue(<https://openenergyplatform.org/ontology/oeo/OEO_00140178> "1"^^xsd:integer))))
 
 # Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020098> (scenario horizon)
 
@@ -668,7 +667,6 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openen
 AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020098> "scenario horizon"@en)
 SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020098> <https://openenergyplatform.org/ontology/oeo/OEO_00030033>)
 SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020098> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> <https://openenergyplatform.org/ontology/oeo/OEO_00020097>))
-SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020098> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> ObjectIntersectionOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030035> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00040010> <http://purl.obolibrary.org/obo/UO_0000036>))))
 
 # Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020121> (resolution)
 
