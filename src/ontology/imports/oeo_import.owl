@@ -11,9 +11,1134 @@ Ontology(<https://purl.org/oeto/ontology/oeto/imports/oeo_import.owl>
 Annotation(<http://purl.org/dc/elements/1.1/source> <https://openenergyplatform.org/ontology/oeo/releases/2.14.0/oeo.owl>)
 Annotation(owl:versionInfo "2026-11-25")
 
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000002>))
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000003>))
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000004>))
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000006>))
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000008>))
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000015>))
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000017>))
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000019>))
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000020>))
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000023>))
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000030>))
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000031>))
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000038>))
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000040>))
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000141>))
+Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000148>))
+Declaration(Class(<http://purl.obolibrary.org/obo/IAO_0000005>))
+Declaration(Class(<http://purl.obolibrary.org/obo/IAO_0000007>))
+Declaration(Class(<http://purl.obolibrary.org/obo/IAO_0000027>))
+Declaration(Class(<http://purl.obolibrary.org/obo/IAO_0000030>))
+Declaration(Class(<http://purl.obolibrary.org/obo/IAO_0000088>))
+Declaration(Class(<http://purl.obolibrary.org/obo/IAO_0000100>))
+Declaration(Class(<http://purl.obolibrary.org/obo/IAO_0000104>))
+Declaration(Class(<http://purl.obolibrary.org/obo/IAO_0000310>))
+Declaration(Class(<http://purl.obolibrary.org/obo/IAO_0000582>))
+Declaration(Class(<http://purl.obolibrary.org/obo/RO_0002577>))
+Declaration(Class(<http://purl.obolibrary.org/obo/UO_0000003>))
+Declaration(Class(<http://purl.obolibrary.org/obo/UO_0000036>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00000051>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00000064>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00000119>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00000274>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00000275>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00000276>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00000315>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00000323>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00000340>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00000350>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00000367>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00010412>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00010489>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00010490>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020011>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020012>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020015>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020016>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020018>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020032>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020035>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020072>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020097>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020098>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020121>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020166>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020185>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020186>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020352>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020353>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00020354>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00030022>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00030029>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00030030>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00030031>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00030032>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00030033>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00030035>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00090001>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00140009>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00140043>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00140044>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00340062>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00360020>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00360021>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00360022>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390002>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390003>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390004>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390005>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390007>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390014>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390015>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390016>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390017>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390027>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390028>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390029>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390030>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390031>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390032>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390033>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390034>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390035>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390036>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390037>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390038>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390039>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390040>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390041>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390042>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390043>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390044>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390045>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390046>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390047>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390048>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390049>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390050>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390051>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390052>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390053>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390054>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390055>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390056>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390057>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390058>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390059>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390060>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390061>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390062>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390063>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00390066>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00400022>))
+Declaration(Class(<https://openenergyplatform.org/ontology/oeo/OEO_00400043>))
+Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/BFO_0000050>))
+Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/BFO_0000051>))
+Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/IAO_0000136>))
+Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/RO_0000052>))
+Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/RO_0000053>))
+Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/RO_0000056>))
+Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/RO_0000057>))
+Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/RO_0000081>))
+Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/RO_0000087>))
+Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/RO_0002233>))
+Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/RO_0002234>))
+Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/RO_0002352>))
+Declaration(ObjectProperty(<http://purl.obolibrary.org/obo/RO_0002353>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00000506>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00000509>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00000514>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00000522>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00010231>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00020056>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00020188>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00020189>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00020190>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00040010>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00140002>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00140008>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00140093>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00140094>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00140164>))
+Declaration(ObjectProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00390026>))
+Declaration(DataProperty(<https://openenergyplatform.org/ontology/oeo/OEO_00140178>))
+Declaration(AnnotationProperty(<http://purl.obolibrary.org/obo/IAO_0000115>))
 Declaration(AnnotationProperty(<http://purl.org/dc/elements/1.1/source>))
 Declaration(AnnotationProperty(<http://purl.org/dc/terms/license>))
 Declaration(AnnotationProperty(<http://purl.org/dc/terms/title>))
+Declaration(Datatype(rdf:PlainLiteral))
+Declaration(Datatype(xsd:integer))
+
+############################
+#   Object Properties
+############################
+
+# Object Property: <http://purl.obolibrary.org/obo/BFO_0000050> (<http://purl.obolibrary.org/obo/BFO_0000050>)
+
+InverseObjectProperties(<http://purl.obolibrary.org/obo/BFO_0000050> <http://purl.obolibrary.org/obo/BFO_0000051>)
+
+# Object Property: <http://purl.obolibrary.org/obo/IAO_0000136> (<http://purl.obolibrary.org/obo/IAO_0000136>)
+
+InverseObjectProperties(<http://purl.obolibrary.org/obo/IAO_0000136> <https://openenergyplatform.org/ontology/oeo/OEO_00010231>)
+ObjectPropertyDomain(<http://purl.obolibrary.org/obo/IAO_0000136> <http://purl.obolibrary.org/obo/IAO_0000030>)
+
+# Object Property: <http://purl.obolibrary.org/obo/RO_0000052> (<http://purl.obolibrary.org/obo/RO_0000052>)
+
+InverseObjectProperties(<http://purl.obolibrary.org/obo/RO_0000052> <http://purl.obolibrary.org/obo/RO_0000053>)
+
+# Object Property: <http://purl.obolibrary.org/obo/RO_0000053> (<http://purl.obolibrary.org/obo/RO_0000053>)
+
+ObjectPropertyRange(<http://purl.obolibrary.org/obo/RO_0000053> <http://purl.obolibrary.org/obo/BFO_0000020>)
+
+# Object Property: <http://purl.obolibrary.org/obo/RO_0000056> (<http://purl.obolibrary.org/obo/RO_0000056>)
+
+InverseObjectProperties(<http://purl.obolibrary.org/obo/RO_0000056> <http://purl.obolibrary.org/obo/RO_0000057>)
+ObjectPropertyDomain(<http://purl.obolibrary.org/obo/RO_0000056> <http://purl.obolibrary.org/obo/BFO_0000002>)
+ObjectPropertyRange(<http://purl.obolibrary.org/obo/RO_0000056> <http://purl.obolibrary.org/obo/BFO_0000003>)
+
+# Object Property: <http://purl.obolibrary.org/obo/RO_0000057> (<http://purl.obolibrary.org/obo/RO_0000057>)
+
+ObjectPropertyDomain(<http://purl.obolibrary.org/obo/RO_0000057> <http://purl.obolibrary.org/obo/BFO_0000003>)
+ObjectPropertyRange(<http://purl.obolibrary.org/obo/RO_0000057> <http://purl.obolibrary.org/obo/BFO_0000002>)
+
+# Object Property: <http://purl.obolibrary.org/obo/RO_0000081> (<http://purl.obolibrary.org/obo/RO_0000081>)
+
+SubObjectPropertyOf(<http://purl.obolibrary.org/obo/RO_0000081> <http://purl.obolibrary.org/obo/RO_0000052>)
+InverseObjectProperties(<http://purl.obolibrary.org/obo/RO_0000081> <http://purl.obolibrary.org/obo/RO_0000087>)
+ObjectPropertyDomain(<http://purl.obolibrary.org/obo/RO_0000081> <http://purl.obolibrary.org/obo/BFO_0000023>)
+ObjectPropertyRange(<http://purl.obolibrary.org/obo/RO_0000081> <http://purl.obolibrary.org/obo/BFO_0000002>)
+
+# Object Property: <http://purl.obolibrary.org/obo/RO_0000087> (<http://purl.obolibrary.org/obo/RO_0000087>)
+
+SubObjectPropertyOf(<http://purl.obolibrary.org/obo/RO_0000087> <http://purl.obolibrary.org/obo/RO_0000053>)
+ObjectPropertyRange(<http://purl.obolibrary.org/obo/RO_0000087> <http://purl.obolibrary.org/obo/BFO_0000023>)
+
+# Object Property: <http://purl.obolibrary.org/obo/RO_0002233> (<http://purl.obolibrary.org/obo/RO_0002233>)
+
+SubObjectPropertyOf(<http://purl.obolibrary.org/obo/RO_0002233> <http://purl.obolibrary.org/obo/RO_0000057>)
+InverseObjectProperties(<http://purl.obolibrary.org/obo/RO_0002233> <http://purl.obolibrary.org/obo/RO_0002352>)
+ObjectPropertyDomain(<http://purl.obolibrary.org/obo/RO_0002233> <http://purl.obolibrary.org/obo/BFO_0000015>)
+
+# Object Property: <http://purl.obolibrary.org/obo/RO_0002234> (<http://purl.obolibrary.org/obo/RO_0002234>)
+
+SubObjectPropertyOf(<http://purl.obolibrary.org/obo/RO_0002234> <http://purl.obolibrary.org/obo/RO_0000057>)
+InverseObjectProperties(<http://purl.obolibrary.org/obo/RO_0002234> <http://purl.obolibrary.org/obo/RO_0002353>)
+
+# Object Property: <http://purl.obolibrary.org/obo/RO_0002352> (<http://purl.obolibrary.org/obo/RO_0002352>)
+
+SubObjectPropertyOf(<http://purl.obolibrary.org/obo/RO_0002352> <http://purl.obolibrary.org/obo/RO_0000056>)
+
+# Object Property: <http://purl.obolibrary.org/obo/RO_0002353> (<http://purl.obolibrary.org/obo/RO_0002353>)
+
+SubObjectPropertyOf(<http://purl.obolibrary.org/obo/RO_0002353> <http://purl.obolibrary.org/obo/RO_0000056>)
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00000506> (has author)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00000506> "A relation that holds between an information content entity and its author."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00000506> "has author"@en)
+SubObjectPropertyOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000506> <https://openenergyplatform.org/ontology/oeo/OEO_00140008>)
+ObjectPropertyDomain(<https://openenergyplatform.org/ontology/oeo/OEO_00000506> <http://purl.obolibrary.org/obo/IAO_0000030>)
+ObjectPropertyRange(<https://openenergyplatform.org/ontology/oeo/OEO_00000506> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000087> <https://openenergyplatform.org/ontology/oeo/OEO_00000064>))
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00000509> (has funding source)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00000509> "A relation that holds between an entity and its source of funding."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00000509> "has funding source"@en)
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00000514> (has resolution)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00000514> "A relation that holds between a data set and the resolution it depicts."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00000514> "has resolution"@en)
+ObjectPropertyDomain(<https://openenergyplatform.org/ontology/oeo/OEO_00000514> <http://purl.obolibrary.org/obo/IAO_0000100>)
+ObjectPropertyRange(<https://openenergyplatform.org/ontology/oeo/OEO_00000514> <https://openenergyplatform.org/ontology/oeo/OEO_00020121>)
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00000522> (covers)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00000522> "A relation that holds between a study and the thing it covers.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00000522> "covers"@en)
+ObjectPropertyDomain(<https://openenergyplatform.org/ontology/oeo/OEO_00000522> <https://openenergyplatform.org/ontology/oeo/OEO_00020011>)
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00010231> (is subject of)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00010231> "A relation between an entity and an information artifact.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00010231> "is subject of"@en)
+ObjectPropertyRange(<https://openenergyplatform.org/ontology/oeo/OEO_00010231> <http://purl.obolibrary.org/obo/IAO_0000030>)
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00020056> (quantity value of)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020056> "A relation that relates a quantity value to its entity in reality.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020056> "quantity value of"@en)
+SubObjectPropertyOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020056> <http://purl.obolibrary.org/obo/IAO_0000136>)
+InverseObjectProperties(<https://openenergyplatform.org/ontology/oeo/OEO_00020056> <https://openenergyplatform.org/ontology/oeo/OEO_00140002>)
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00020188> (has licence)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020188> "A relation that holds between an information content entity and a licence.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020188> "has licence"@en)
+SubObjectPropertyOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020188> <https://openenergyplatform.org/ontology/oeo/OEO_00010231>)
+ObjectPropertyDomain(<https://openenergyplatform.org/ontology/oeo/OEO_00020188> <http://purl.obolibrary.org/obo/IAO_0000030>)
+ObjectPropertyRange(<https://openenergyplatform.org/ontology/oeo/OEO_00020188> <https://openenergyplatform.org/ontology/oeo/OEO_00020015>)
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00020189> (information input of)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020189> "c is an information input of p iff: c is an input of p, and c is an information content entity")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020189> "information input of"@en)
+SubObjectPropertyOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020189> <http://purl.obolibrary.org/obo/RO_0002352>)
+ObjectPropertyDomain(<https://openenergyplatform.org/ontology/oeo/OEO_00020189> <http://purl.obolibrary.org/obo/IAO_0000030>)
+ObjectPropertyRange(<https://openenergyplatform.org/ontology/oeo/OEO_00020189> <http://purl.obolibrary.org/obo/BFO_0000015>)
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00020190> (information output of)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020190> "c is an information output of p iff: c is an output of p, and c is an information content entity")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020190> "information output of"@en)
+SubObjectPropertyOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020190> <http://purl.obolibrary.org/obo/RO_0002353>)
+ObjectPropertyDomain(<https://openenergyplatform.org/ontology/oeo/OEO_00020190> <http://purl.obolibrary.org/obo/IAO_0000030>)
+ObjectPropertyRange(<https://openenergyplatform.org/ontology/oeo/OEO_00020190> <http://purl.obolibrary.org/obo/BFO_0000015>)
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00040010> (has unit)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00040010> "A property that links a quantity value to a unit in which the quantity value has been expressed.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00040010> "has unit"@en)
+ObjectPropertyDomain(<https://openenergyplatform.org/ontology/oeo/OEO_00040010> <https://openenergyplatform.org/ontology/oeo/OEO_00000350>)
+ObjectPropertyRange(<https://openenergyplatform.org/ontology/oeo/OEO_00040010> <https://openenergyplatform.org/ontology/oeo/OEO_00010489>)
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00140002> (has quantity value)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00140002> "A relation between an entity and a quantity value.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00140002> "has quantity value"@en)
+SubObjectPropertyOf(<https://openenergyplatform.org/ontology/oeo/OEO_00140002> <https://openenergyplatform.org/ontology/oeo/OEO_00010231>)
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00140008> (has contributor)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00140008> "A relation between an information content entity / model and a continuant, in which the continuant is somehow involved in the creation of the information content entity / model.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00140008> "has contributor"@en)
+ObjectPropertyDomain(<https://openenergyplatform.org/ontology/oeo/OEO_00140008> ObjectUnionOf(<http://purl.obolibrary.org/obo/IAO_0000030> <https://openenergyplatform.org/ontology/oeo/OEO_00020352>))
+ObjectPropertyRange(<https://openenergyplatform.org/ontology/oeo/OEO_00140008> <http://purl.obolibrary.org/obo/BFO_0000002>)
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00140093> (has information input)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00140093> "p has information input c iff: p has input c, and c is an information content entity")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00140093> "has information input"@en)
+SubObjectPropertyOf(<https://openenergyplatform.org/ontology/oeo/OEO_00140093> <http://purl.obolibrary.org/obo/RO_0002233>)
+ObjectPropertyDomain(<https://openenergyplatform.org/ontology/oeo/OEO_00140093> <http://purl.obolibrary.org/obo/BFO_0000015>)
+ObjectPropertyRange(<https://openenergyplatform.org/ontology/oeo/OEO_00140093> <http://purl.obolibrary.org/obo/IAO_0000030>)
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00140094> (has information output)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00140094> "p has information output c iff: p has output c, and c is an information content entity")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00140094> "has information output"@en)
+SubObjectPropertyOf(<https://openenergyplatform.org/ontology/oeo/OEO_00140094> <http://purl.obolibrary.org/obo/RO_0002234>)
+ObjectPropertyDomain(<https://openenergyplatform.org/ontology/oeo/OEO_00140094> <http://purl.obolibrary.org/obo/BFO_0000015>)
+ObjectPropertyRange(<https://openenergyplatform.org/ontology/oeo/OEO_00140094> <http://purl.obolibrary.org/obo/IAO_0000030>)
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00140164> (models)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00140164> "A relation between a model and the thing it reproduces.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00140164> "models"@en)
+ObjectPropertyDomain(<https://openenergyplatform.org/ontology/oeo/OEO_00140164> <https://openenergyplatform.org/ontology/oeo/OEO_00020352>)
+
+# Object Property: <https://openenergyplatform.org/ontology/oeo/OEO_00390026> (structured by)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390026> "A relationship between a process and a plan specification, in which the process is predefined or planned by the plan specification.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390026> "structured by"@en)
+SubObjectPropertyOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390026> <http://purl.obolibrary.org/obo/RO_0000057>)
+ObjectPropertyDomain(<https://openenergyplatform.org/ontology/oeo/OEO_00390026> <http://purl.obolibrary.org/obo/BFO_0000015>)
+ObjectPropertyRange(<https://openenergyplatform.org/ontology/oeo/OEO_00390026> <http://purl.obolibrary.org/obo/IAO_0000104>)
+
+
+############################
+#   Data Properties
+############################
+
+# Data Property: <https://openenergyplatform.org/ontology/oeo/OEO_00140178> (has number)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00140178> "Has number is a data property that links a quantity value to a number that defines the quantity value.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00140178> "has number"@en)
+DataPropertyDomain(<https://openenergyplatform.org/ontology/oeo/OEO_00140178> <https://openenergyplatform.org/ontology/oeo/OEO_00000350>)
+
+
+
+############################
+#   Classes
+############################
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000002> (<http://purl.obolibrary.org/obo/BFO_0000002>)
+
+DisjointClasses(<http://purl.obolibrary.org/obo/BFO_0000002> <http://purl.obolibrary.org/obo/BFO_0000003>)
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000003> (occurrent)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/BFO_0000003> "occurrent"@en)
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000004> (<http://purl.obolibrary.org/obo/BFO_0000004>)
+
+SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000004> <http://purl.obolibrary.org/obo/BFO_0000002>)
+DisjointClasses(<http://purl.obolibrary.org/obo/BFO_0000004> <http://purl.obolibrary.org/obo/BFO_0000020>)
+DisjointClasses(<http://purl.obolibrary.org/obo/BFO_0000004> <http://purl.obolibrary.org/obo/BFO_0000031>)
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000006> (spatial region)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/BFO_0000006> "spatial region"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000006> <http://purl.obolibrary.org/obo/BFO_0000141>)
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000008> (temporal region)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/BFO_0000008> "temporal region"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000008> <http://purl.obolibrary.org/obo/BFO_0000003>)
+DisjointClasses(<http://purl.obolibrary.org/obo/BFO_0000008> <http://purl.obolibrary.org/obo/BFO_0000015>)
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000015> (process)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/BFO_0000015> "process"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000015> <http://purl.obolibrary.org/obo/BFO_0000003>)
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000017> (realizable entity)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/BFO_0000017> "realizable entity"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000017> <http://purl.obolibrary.org/obo/BFO_0000020>)
+DisjointClasses(<http://purl.obolibrary.org/obo/BFO_0000017> <http://purl.obolibrary.org/obo/BFO_0000019>)
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000019> (quality)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/BFO_0000019> "quality"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000019> <http://purl.obolibrary.org/obo/BFO_0000020>)
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000020> (specifically dependent continuant)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/BFO_0000020> "specifically dependent continuant"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000020> <http://purl.obolibrary.org/obo/BFO_0000002>)
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000023> (role)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/BFO_0000023> "role"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000023> <http://purl.obolibrary.org/obo/BFO_0000017>)
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000030> (object)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/BFO_0000030> "object"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000030> <http://purl.obolibrary.org/obo/BFO_0000040>)
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000031> (generically dependent continuant)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/BFO_0000031> "generically dependent continuant"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000031> <http://purl.obolibrary.org/obo/BFO_0000002>)
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000038> (one-dimensional temporal region)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/BFO_0000038> "one-dimensional temporal region"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000038> <http://purl.obolibrary.org/obo/BFO_0000008>)
+DisjointClasses(<http://purl.obolibrary.org/obo/BFO_0000038> <http://purl.obolibrary.org/obo/BFO_0000148>)
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000040> (<http://purl.obolibrary.org/obo/BFO_0000040>)
+
+SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000040> <http://purl.obolibrary.org/obo/BFO_0000004>)
+DisjointClasses(<http://purl.obolibrary.org/obo/BFO_0000040> <http://purl.obolibrary.org/obo/BFO_0000141>)
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000141> (immaterial entity)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/BFO_0000141> "immaterial entity"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000141> <http://purl.obolibrary.org/obo/BFO_0000004>)
+
+# Class: <http://purl.obolibrary.org/obo/BFO_0000148> (zero-dimensional temporal region)
+
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/BFO_0000148> "zero-dimensional temporal region"@en)
+SubClassOf(<http://purl.obolibrary.org/obo/BFO_0000148> <http://purl.obolibrary.org/obo/BFO_0000008>)
+
+# Class: <http://purl.obolibrary.org/obo/IAO_0000005> (<http://purl.obolibrary.org/obo/IAO_0000005>)
+
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000005> <http://purl.obolibrary.org/obo/IAO_0000030>)
+
+# Class: <http://purl.obolibrary.org/obo/IAO_0000007> (<http://purl.obolibrary.org/obo/IAO_0000007>)
+
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000007> <http://purl.obolibrary.org/obo/IAO_0000030>)
+
+# Class: <http://purl.obolibrary.org/obo/IAO_0000027> (<http://purl.obolibrary.org/obo/IAO_0000027>)
+
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000027> <http://purl.obolibrary.org/obo/IAO_0000030>)
+
+# Class: <http://purl.obolibrary.org/obo/IAO_0000030> (<http://purl.obolibrary.org/obo/IAO_0000030>)
+
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000030> <http://purl.obolibrary.org/obo/BFO_0000031>)
+
+# Class: <http://purl.obolibrary.org/obo/IAO_0000088> (<http://purl.obolibrary.org/obo/IAO_0000088>)
+
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000088> <http://purl.obolibrary.org/obo/IAO_0000310>)
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000088> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00020188> <https://openenergyplatform.org/ontology/oeo/OEO_00010412>))
+
+# Class: <http://purl.obolibrary.org/obo/IAO_0000100> (<http://purl.obolibrary.org/obo/IAO_0000100>)
+
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000100> <http://purl.obolibrary.org/obo/IAO_0000027>)
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000100> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00000514> <https://openenergyplatform.org/ontology/oeo/OEO_00020121>))
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000100> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00020188> <https://openenergyplatform.org/ontology/oeo/OEO_00020186>))
+
+# Class: <http://purl.obolibrary.org/obo/IAO_0000104> (<http://purl.obolibrary.org/obo/IAO_0000104>)
+
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000104> <http://purl.obolibrary.org/obo/IAO_0000030>)
+
+# Class: <http://purl.obolibrary.org/obo/IAO_0000310> (<http://purl.obolibrary.org/obo/IAO_0000310>)
+
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000310> <http://purl.obolibrary.org/obo/IAO_0000030>)
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000310> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00020188> <https://openenergyplatform.org/ontology/oeo/OEO_00010412>))
+
+# Class: <http://purl.obolibrary.org/obo/IAO_0000582> (<http://purl.obolibrary.org/obo/IAO_0000582>)
+
+SubClassOf(<http://purl.obolibrary.org/obo/IAO_0000582> <http://purl.obolibrary.org/obo/IAO_0000027>)
+
+# Class: <http://purl.obolibrary.org/obo/RO_0002577> (<http://purl.obolibrary.org/obo/RO_0002577>)
+
+SubClassOf(<http://purl.obolibrary.org/obo/RO_0002577> <http://purl.obolibrary.org/obo/BFO_0000040>)
+
+# Class: <http://purl.obolibrary.org/obo/UO_0000003> (<http://purl.obolibrary.org/obo/UO_0000003>)
+
+SubClassOf(<http://purl.obolibrary.org/obo/UO_0000003> <https://openenergyplatform.org/ontology/oeo/OEO_00010490>)
+
+# Class: <http://purl.obolibrary.org/obo/UO_0000036> (<http://purl.obolibrary.org/obo/UO_0000036>)
+
+SubClassOf(<http://purl.obolibrary.org/obo/UO_0000036> <http://purl.obolibrary.org/obo/UO_0000003>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00000051> (agent)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00000051> "Agent is a role of a person or organisation that directs its activity towards achieving goals."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00000051> "agent"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000051> <http://purl.obolibrary.org/obo/BFO_0000023>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000051> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000052> ObjectUnionOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000323> <https://openenergyplatform.org/ontology/oeo/OEO_00030022>)))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00000064> (author)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00000064> "An author is an agent that creates or has created written work.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00000064> "author"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000064> <https://openenergyplatform.org/ontology/oeo/OEO_00000051>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00000119> (data descriptor)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00000119> "A data descriptor is an information content entity that contains additional information about some data.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00000119> "data descriptor"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000119> <http://purl.obolibrary.org/obo/IAO_0000030>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00000274> (numerical computer model)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00000274> "A numerical computer model is a mathematical model that is calculated by a computer."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00000274> "numerical computer model"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000274> <https://openenergyplatform.org/ontology/oeo/OEO_00020354>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00000275> (model calculation)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00000275> "A model calculation is a process of solving mathematical equations of a model."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00000275> "model calculation"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000275> <http://purl.obolibrary.org/obo/BFO_0000015>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000275> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000057> <https://openenergyplatform.org/ontology/oeo/OEO_00000274>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000275> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00140093> <https://openenergyplatform.org/ontology/oeo/OEO_00030029>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000275> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00140094> <https://openenergyplatform.org/ontology/oeo/OEO_00030030>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00000276> (model component)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00000276> "A model component is a generically dependent continuant that is part of a model.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00000276> "model component"@en)
+EquivalentClasses(<https://openenergyplatform.org/ontology/oeo/OEO_00000276> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000050> <https://openenergyplatform.org/ontology/oeo/OEO_00000274>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000276> <http://purl.obolibrary.org/obo/BFO_0000031>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00000315> (organisation role)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00000315> "An organisation role is a role of an aggregate of people that has a collective goal and a set of organisation rules.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00000315> "organisation role"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000315> <http://purl.obolibrary.org/obo/BFO_0000023>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00000323> (person)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00000323> "A person is a human being."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00000323> "person"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000323> <http://purl.obolibrary.org/obo/BFO_0000030>)
+DisjointClasses(<https://openenergyplatform.org/ontology/oeo/OEO_00000323> <https://openenergyplatform.org/ontology/oeo/OEO_00030022>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00000340> (project)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00000340> "A project is a process to achieve a specified goal that is unique in the sum of its conditions like its goal, time and cost budget and its organisation.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00000340> "project"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000340> <http://purl.obolibrary.org/obo/BFO_0000015>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00000350> (quantity value)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00000350> "A quantity value is an information content entity defined by a numeral together with a unit of measurement to quantify an entity."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00000350> "quantity value"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000350> <http://purl.obolibrary.org/obo/IAO_0000030>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000350> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00040010> <https://openenergyplatform.org/ontology/oeo/OEO_00010489>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00000367> (sector)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00000367> "A sector is generically dependent continuant that is a subdivision of a system."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00000367> "sector"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00000367> <http://purl.obolibrary.org/obo/BFO_0000031>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00010412> (creative work licence)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00010412> "A creative work licence is a copyright license that determines ownership and permissions for literary work and multimedia work that combines various media types such as text, audio, images, animations, video and interactive content and its collections.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00010412> "creative work licence"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00010412> <https://openenergyplatform.org/ontology/oeo/OEO_00020185>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00010489> (unit)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00010489> "A unit of measurement is a generically dependent continuant that represents a standardised quantity value of a quantifiable entity"@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00010489> "unit"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00010489> <http://purl.obolibrary.org/obo/BFO_0000031>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00010490> (physical unit)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00010490> "A physical unit is a unit that represents a standardised quantity value of a physical quantifiable entity."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00010490> "physical unit"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00010490> <https://openenergyplatform.org/ontology/oeo/OEO_00010489>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020011> (study)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020011> "A study is a project with the goal to methodologically investigate something."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020011> "study"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020011> <https://openenergyplatform.org/ontology/oeo/OEO_00000340>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020011> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000057> <http://purl.obolibrary.org/obo/IAO_0000100>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020011> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000057> <https://openenergyplatform.org/ontology/oeo/OEO_00020166>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020011> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0002234> <https://openenergyplatform.org/ontology/oeo/OEO_00020012>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020011> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00000509> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000087> <https://openenergyplatform.org/ontology/oeo/OEO_00090001>)))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020011> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00000522> <https://openenergyplatform.org/ontology/oeo/OEO_00020072>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020012> (study report)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020012> "A study report is a report that is the output from some study."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020012> "study report"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020012> <http://purl.obolibrary.org/obo/IAO_0000088>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020012> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/IAO_0000136> <http://purl.obolibrary.org/obo/IAO_0000100>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020012> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0002353> <https://openenergyplatform.org/ontology/oeo/OEO_00020011>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020012> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00000506> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000087> <https://openenergyplatform.org/ontology/oeo/OEO_00000064>)))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020015> (licence)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020015> "A licence is an information content entity that contains an official permission or permit to do, use or own something.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020015> "licence"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020015> <http://purl.obolibrary.org/obo/IAO_0000030>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020016> (model descriptor)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020016> "A model descriptor is an information content entity that contains information about some model."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020016> "model descriptor"@en)
+EquivalentClasses(<https://openenergyplatform.org/ontology/oeo/OEO_00020016> ObjectIntersectionOf(<http://purl.obolibrary.org/obo/IAO_0000030> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/IAO_0000136> <https://openenergyplatform.org/ontology/oeo/OEO_00000274>)))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020016> <http://purl.obolibrary.org/obo/IAO_0000030>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020018> (methodical focus)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020018> "A methodical focus is a model descriptor that specifies the primary calculation method used in a model.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020018> "methodical focus"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020018> <https://openenergyplatform.org/ontology/oeo/OEO_00020016>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020018> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/IAO_0000136> <https://openenergyplatform.org/ontology/oeo/OEO_00000275>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020032> (study region)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020032> "A study region is a region of relevance that has the study region role and consists entirely of one or more subregions."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020032> "study region"@en)
+EquivalentClasses(<https://openenergyplatform.org/ontology/oeo/OEO_00020032> ObjectIntersectionOf(<https://openenergyplatform.org/ontology/oeo/OEO_00360020> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000087> <https://openenergyplatform.org/ontology/oeo/OEO_00360021>)))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020032> <https://openenergyplatform.org/ontology/oeo/OEO_00360020>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020035> (considered region)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020035> "A considered region is a region of relevance that has the considered region role."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020035> "considered region"@en)
+EquivalentClasses(<https://openenergyplatform.org/ontology/oeo/OEO_00020035> ObjectIntersectionOf(<https://openenergyplatform.org/ontology/oeo/OEO_00360020> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000087> <https://openenergyplatform.org/ontology/oeo/OEO_00360022>)))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020035> <https://openenergyplatform.org/ontology/oeo/OEO_00360020>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020072> (analysis scope)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020072> "An analysis scope is an information content entity that describes the boundaries of what a study or scenario covers.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020072> "analysis scope"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020072> <http://purl.obolibrary.org/obo/IAO_0000030>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020072> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/IAO_0000136> <https://openenergyplatform.org/ontology/oeo/OEO_00000367>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020072> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/IAO_0000136> <https://openenergyplatform.org/ontology/oeo/OEO_00020018>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020072> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/IAO_0000136> <https://openenergyplatform.org/ontology/oeo/OEO_00020032>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020072> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/IAO_0000136> <https://openenergyplatform.org/ontology/oeo/OEO_00020035>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020072> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/IAO_0000136> <https://openenergyplatform.org/ontology/oeo/OEO_00020097>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020072> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/IAO_0000136> <https://openenergyplatform.org/ontology/oeo/OEO_00020098>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020097> (scenario year)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020097> "A scenario year is a time step that has a duration of one year and is part of a scenario horizon.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020097> "scenario year"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020097> <https://openenergyplatform.org/ontology/oeo/OEO_00030033>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020097> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000050> <https://openenergyplatform.org/ontology/oeo/OEO_00020098>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020097> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> ObjectIntersectionOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030035> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00040010> <http://purl.obolibrary.org/obo/UO_0000036>) DataHasValue(<https://openenergyplatform.org/ontology/oeo/OEO_00140178> "1"^^xsd:integer))))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020098> (scenario horizon)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020098> "A scenario horizon is a time step that is under investigation and consists entirely of one or more scenario years.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020098> "scenario horizon"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020098> <https://openenergyplatform.org/ontology/oeo/OEO_00030033>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020098> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> <https://openenergyplatform.org/ontology/oeo/OEO_00020097>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020098> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> ObjectIntersectionOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030035> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00040010> <http://purl.obolibrary.org/obo/UO_0000036>))))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020121> (resolution)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020121> "Resolution is a quality of a dataset that indicates the level of detail of the data.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020121> "resolution"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020121> <http://purl.obolibrary.org/obo/BFO_0000019>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020121> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000052> <http://purl.obolibrary.org/obo/IAO_0000100>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020166> (methodology)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020166> "A methodology is a plan specification that describes processes that are part of a study.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020166> "methodology"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020166> <http://purl.obolibrary.org/obo/IAO_0000104>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020166> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000050> <https://openenergyplatform.org/ontology/oeo/OEO_00020011>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020185> (copyright licence)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020185> "A copyright licence is a licence that states the ownership and contractually sets the rights and obligations to use, copy, and distribute a creative work.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020185> "copyright licence"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020185> <https://openenergyplatform.org/ontology/oeo/OEO_00020015>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020186> (data licence)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020186> "A data licence is a licence that determines ownership, database protection, and permissions for data.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020186> "data licence"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020186> <https://openenergyplatform.org/ontology/oeo/OEO_00020015>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020352> (model)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020352> "A model is a continuant to represent a system and its behaviours in a simplified or idealised way.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020352> "model"@en)
+EquivalentClasses(<https://openenergyplatform.org/ontology/oeo/OEO_00020352> ObjectIntersectionOf(<http://purl.obolibrary.org/obo/BFO_0000002> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000087> <https://openenergyplatform.org/ontology/oeo/OEO_00020353>)))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020352> <http://purl.obolibrary.org/obo/BFO_0000002>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020352> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00140164> <http://purl.obolibrary.org/obo/BFO_0000015>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020352> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00140164> <http://purl.obolibrary.org/obo/RO_0002577>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020353> (model role)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020353> "A model role is a a role of a continuant for representing a system and its behaviours in a simplified or idealised way.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020353> "model role"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020353> <http://purl.obolibrary.org/obo/BFO_0000023>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020353> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000081> <https://openenergyplatform.org/ontology/oeo/OEO_00020352>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00020354> (mathematical model)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00020354> "A mathematical model is a information content artifact that represents a system and its behaviours mathematically.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00020354> "mathematical model"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020354> <http://purl.obolibrary.org/obo/IAO_0000030>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00020354> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000087> <https://openenergyplatform.org/ontology/oeo/OEO_00020353>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00030022> (organisation)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00030022> "An organisation is an immaterial entity that has the organisation role and there exists some sort of legal framework that recognises the entity and its continued existence.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00030022> "organisation"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030022> <http://purl.obolibrary.org/obo/BFO_0000141>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030022> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000087> <https://openenergyplatform.org/ontology/oeo/OEO_00000315>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00030029> (exogenous data)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00030029> "Exogenous data is a data item whose quantity value is determined outside of a model and is imposed on a model.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00030029> "exogenous data"@en)
+EquivalentClasses(<https://openenergyplatform.org/ontology/oeo/OEO_00030029> ObjectIntersectionOf(<http://purl.obolibrary.org/obo/IAO_0000027> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00020189> <https://openenergyplatform.org/ontology/oeo/OEO_00000275>)))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030029> <http://purl.obolibrary.org/obo/IAO_0000027>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030029> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/IAO_0000136> <https://openenergyplatform.org/ontology/oeo/OEO_00000350>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030029> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000087> <https://openenergyplatform.org/ontology/oeo/OEO_00400022>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00030030> (endogenous data)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00030030> "Endogenous data is a data item whose quantity value is determined by a model.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00030030> "endogenous data"@en)
+EquivalentClasses(<https://openenergyplatform.org/ontology/oeo/OEO_00030030> ObjectIntersectionOf(<http://purl.obolibrary.org/obo/IAO_0000027> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00020190> <https://openenergyplatform.org/ontology/oeo/OEO_00000275>)))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030030> <http://purl.obolibrary.org/obo/IAO_0000027>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030030> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/IAO_0000136> <https://openenergyplatform.org/ontology/oeo/OEO_00000350>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00030031> (start time)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00030031> "A start time is a zero-dimensional temporal region that indicates the beginning of a one-dimensional temporal region.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00030031> "start time"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030031> <http://purl.obolibrary.org/obo/BFO_0000148>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00030032> (ending time)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00030032> "An ending time is a zero-dimensional temporal region that indicates the end of a one-dimensional temporal region.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00030032> "ending time"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030032> <http://purl.obolibrary.org/obo/BFO_0000148>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00030033> (time step)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00030033> "A time step is a one-dimensional temporal region that has a start time and an ending time and thus a finite duration.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00030033> "time step"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030033> <http://purl.obolibrary.org/obo/BFO_0000038>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030033> ObjectUnionOf(ObjectIntersectionOf(ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> <https://openenergyplatform.org/ontology/oeo/OEO_00030031>) ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> <https://openenergyplatform.org/ontology/oeo/OEO_00030032>)) ObjectIntersectionOf(ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> <https://openenergyplatform.org/ontology/oeo/OEO_00030035>) ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> <https://openenergyplatform.org/ontology/oeo/OEO_00140043>) ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> <https://openenergyplatform.org/ontology/oeo/OEO_00140044>))))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00030035> (time span)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00030035> "A time span is a quantity value indicating the duration of a one-dimensional temporal region, measured in a time unit.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00030035> "time span"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030035> <https://openenergyplatform.org/ontology/oeo/OEO_00000350>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030035> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00020056> <http://purl.obolibrary.org/obo/BFO_0000038>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00030035> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00040010> <http://purl.obolibrary.org/obo/UO_0000003>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00090001> (funder)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00090001> "A funder is a sponsor that supports by giving money.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00090001> "funder"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00090001> <https://openenergyplatform.org/ontology/oeo/OEO_00140009>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00140009> (sponsor)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00140009> "A sponsor is an agent that supports a person, organisation, or project by giving money, allowance of kind, services or other help.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00140009> "sponsor"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00140009> <https://openenergyplatform.org/ontology/oeo/OEO_00000051>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00140043> (time stamp)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00140043> "A time stamp is a data descriptor that is used to describe either a temporal region or a data item that is related to a temporal region, e.g. a time stamped measurement datum. If the time stamp refers to a time step/one-dimensional temporal region, the indication of a time stamp alignment is required")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00140043> "time stamp"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00140043> <https://openenergyplatform.org/ontology/oeo/OEO_00000119>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00140043> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/IAO_0000136> <http://purl.obolibrary.org/obo/BFO_0000008>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00140043> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/IAO_0000136> <http://purl.obolibrary.org/obo/IAO_0000582>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00140044> (time stamp alignment)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00140044> "A time stamp alignment is a data descriptor that indicates the position of a time stamp in a time step.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00140044> "time stamp alignment"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00140044> <https://openenergyplatform.org/ontology/oeo/OEO_00000119>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00340062> (quantity)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00340062> "A quantity is a quality of a material entity where the magnitude  of the quality can be quantified via a quantity value, which means that it can be expressed as a number and a unit.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00340062> "quantity"@en)
+EquivalentClasses(<https://openenergyplatform.org/ontology/oeo/OEO_00340062> ObjectIntersectionOf(<http://purl.obolibrary.org/obo/BFO_0000019> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00140002> <https://openenergyplatform.org/ontology/oeo/OEO_00000350>)))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00340062> <http://purl.obolibrary.org/obo/BFO_0000019>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00360020> (region of relevance)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00360020> "A region of relevance is a spatial region that is used in a study or analysis, or is part of spatial planning."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00360020> "region of relevance"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00360020> <http://purl.obolibrary.org/obo/BFO_0000006>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00360021> (study region role)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00360021> "A study region role is a role of a region of relevance that is under investigation and consists entirely of one or more subregions."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00360021> "study region role"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00360021> <http://purl.obolibrary.org/obo/BFO_0000023>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00360021> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000052> <https://openenergyplatform.org/ontology/oeo/OEO_00360020>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00360022> (considered region role)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00360022> "A considered region role is the role of a region of relevance that is used in an analysis."@en)
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00360022> "considered region role"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00360022> <http://purl.obolibrary.org/obo/BFO_0000023>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00360022> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000052> <https://openenergyplatform.org/ontology/oeo/OEO_00360020>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390002> (wind characteristics determination method)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390002> "Wind characteristics determination method is a methodology with the goal to understand the specific wind characteristics of a predefined region, encompassing data acquisition, modelling, and analytical procedures.
+Wind characteristics include speed, direction, frequency, turbulence, and seasonal or diurnal patterns.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390002> "wind characteristics determination method"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390002> <https://openenergyplatform.org/ontology/oeo/OEO_00020166>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390002> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> <https://openenergyplatform.org/ontology/oeo/OEO_00390004>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390002> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> ObjectUnionOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390003> <https://openenergyplatform.org/ontology/oeo/OEO_00390005> <https://openenergyplatform.org/ontology/oeo/OEO_00390014> <https://openenergyplatform.org/ontology/oeo/OEO_00390015> <https://openenergyplatform.org/ontology/oeo/OEO_00390016> <https://openenergyplatform.org/ontology/oeo/OEO_00390017>)))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390003> (data preparation)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390003> "Data preparation is an action specification that describes the steps the bearer takes to acquire raw data and how this data is cleaned, transformed, and structured for subsequent analysis. So it includes the acquisition and pre-processing of data.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390003> "data preparation"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390003> <https://openenergyplatform.org/ontology/oeo/OEO_00390035>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390004> (determined wind characteristics)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390004> "Determined wind characteristics is an object specification that defines the goal of a methodology as a state of understanding the specific wind characteristics of a predefined region.
+Wind characteristics include speed, direction, frequency, turbulence, and seasonal or diurnal patterns.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390004> "determined wind characteristics"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390004> <http://purl.obolibrary.org/obo/IAO_0000005>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390005> (wind speed calculation)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390005> "Wind speed calculation is an action specification that describes how wind speed at the hub height of a wind turbine is inferred from measurements taken at a different height. It is extrapolated vertically to the hub height.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390005> "wind speed calculation"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390005> <https://openenergyplatform.org/ontology/oeo/OEO_00390035>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390007> (wind characteristics determination process)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390007> "Wind characteristics determination process is a process that follows a determination methodology for wind characteristics to gain knowledge of the specific wind characteristics of a predefined region.
+Wind characteristics include speed, direction, frequency, turbulence, and seasonal or diurnal patterns.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390007> "wind characteristics determination process"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390007> <http://purl.obolibrary.org/obo/BFO_0000015>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390007> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00390026> <https://openenergyplatform.org/ontology/oeo/OEO_00390002>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390014> (air density adjustment)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390014> "Air density adjustment is an action specification that describes how variations in air density due to changes in altitude, temperature, and pressure are incorporated into the wind resource calculations.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390014> "air density adjustment"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390014> <https://openenergyplatform.org/ontology/oeo/OEO_00390035>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390015> (wind speed frequency analysis)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390015> "Wind speed frequency analysis is an action specification that describes the process of calculating the frequency of different wind speed intervals over a set period giving a wind speed frequency distribution.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390015> "wind speed frequency analysis"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390015> <https://openenergyplatform.org/ontology/oeo/OEO_00390035>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390016> (wind variability identification)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390016> "Wind variability identification is an action specification that describes the process of identifying variations in wind characteristics across temporal scales.
+Wind characteristics include speed, direction, frequency, turbulence, and seasonal or diurnal patterns.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390016> "wind variability identification"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390016> <https://openenergyplatform.org/ontology/oeo/OEO_00390035>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390017> (wind power density calculation)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390017> "Wind power density calculation is an action specification that describes how wind power density (WPD) is calculated to estimate the theoretical wind power potential based on wind speed and air density.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390017> "wind power density calculation"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390017> <https://openenergyplatform.org/ontology/oeo/OEO_00390035>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390027> (improve spatial resolution)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390027> "Improve spatial resolution is an action specification that describes the process of increasing the spatial resolution of wind data across a region to provide finer detail for wind resource assessment. This is done by horizontal interpolation.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390027> "improve spatial resolution"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390027> <https://openenergyplatform.org/ontology/oeo/OEO_00390036>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390028> (select exclusion criteria)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390028> "Select exclusion criteria is an action specification that describes the process of defining physical, environmental, and regulatory criteria that exclude areas from wind farm development, along with the application of buffer zones.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390028> "select exclusion criteria"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390028> <https://openenergyplatform.org/ontology/oeo/OEO_00390036>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390029> (prepare exclusion criteria datasets)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390029> "Prepare exclusion criteria datasets is an action specification that describes the steps involved in obtaining and preparing datasets that represent exclusion zones for wind farm development, based on predefined criteria. That includes acquiring and processing the data.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390029> "prepare exclusion criteria datasets"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390029> <https://openenergyplatform.org/ontology/oeo/OEO_00390036>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390030> (run multi-criteria decision analysis)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390030> "Run multi-criteria secision analysis is an action specification that describes how a multi-criteria decision analysis (MCDA) method is applied to areas where exclusions are not absolute (soft exclusion criteria), allowing for weighted decision-making.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390030> "run multi-criteria decision analysis"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390030> <https://openenergyplatform.org/ontology/oeo/OEO_00390036>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390031> (determine development area)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390031> "Determine development area is an action specification that describes the identification of potential areas where wind farm development is feasible, by iteratively excluding non-available areas based on the processed data and exclusion criteria.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390031> "determine development area"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390031> <https://openenergyplatform.org/ontology/oeo/OEO_00390036>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390032> (determine geographical potential)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390032> "Determine geographical potential is an action specification that describes the calculation of the total geographical area available for wind farm development after applying exclusion criteria and considering spatial constraints.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390032> "determine geographical potential"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390032> <https://openenergyplatform.org/ontology/oeo/OEO_00390036>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390033> (determined wind farm area)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390033> "Determined wind farm area is an object specification that defines the goal of a methodology as a state of understanding the available area for wind farm development.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390033> "determined wind farm area"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390033> <http://purl.obolibrary.org/obo/IAO_0000005>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390034> (wind farm area determination method)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390034> "Wind farm area determination method is a methodology with the goal of identifying and quantifying the area suitable for wind farm development, based on topographical, environmental, and regulatory constraints.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390034> "wind farm area determination method"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390034> <https://openenergyplatform.org/ontology/oeo/OEO_00020166>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390034> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> <https://openenergyplatform.org/ontology/oeo/OEO_00390033>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390034> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> ObjectUnionOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390027> <https://openenergyplatform.org/ontology/oeo/OEO_00390028> <https://openenergyplatform.org/ontology/oeo/OEO_00390029> <https://openenergyplatform.org/ontology/oeo/OEO_00390030> <https://openenergyplatform.org/ontology/oeo/OEO_00390031> <https://openenergyplatform.org/ontology/oeo/OEO_00390032>)))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390035> (action specification for wind characteristics)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390035> "Action specification for wind characteristics is an action specification that deals with wind characteristics.
+Wind characteristics include speed, direction, frequency, turbulence, and seasonal or diurnal patterns.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390035> "action specification for wind characteristics"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390035> <http://purl.obolibrary.org/obo/IAO_0000007>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390036> (action specification for wind farm development area)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390036> "Action specification for wind farm development area is an action specification that deals with available area for wind farm development.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390036> "action specification for wind farm development area"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390036> <http://purl.obolibrary.org/obo/IAO_0000007>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390037> (wind farm area determination process)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390037> "Wind farm area determination process is a process that follows a determination methodology for available area to gain knowledge of the available area for wind farm development.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390037> "wind farm area determination process"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390037> <http://purl.obolibrary.org/obo/BFO_0000015>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390037> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00390026> <https://openenergyplatform.org/ontology/oeo/OEO_00390034>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390038> (action specification for the technical wind potential)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390038> "Action specification for the technical wind potential of the available area is an action specification that deals with the technical wind potential of the available area.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390038> "action specification for the technical wind potential"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390038> <http://purl.obolibrary.org/obo/IAO_0000007>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390039> (select appropriate turbine types)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390039> "Select appropriate turbine types is an action specification that describes the process of choosing wind turbine models based on site-specific wind characteristics, hub height, and rotor diameter.
+Wind characteristics include speed, direction, frequency, turbulence, and seasonal or diurnal patterns.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390039> "select appropriate turbine types"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390039> <https://openenergyplatform.org/ontology/oeo/OEO_00390038>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390040> (place turbines within area)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390040> "Place turbines within area is an action specification that describes the definition of the spatial arrangement of wind turbines within the designated area, ensuring optimal positioning based on site characteristics and layout constraints.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390040> "place turbines within area"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390040> <https://openenergyplatform.org/ontology/oeo/OEO_00390038>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390041> (account for wake losses)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390041> "Account for wake losses is an action specification that describes the inclusion of losses due to wind turbine wake effects, which reduce wind speed and energy yield behind turbines.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390041> "account for wake losses"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390041> <https://openenergyplatform.org/ontology/oeo/OEO_00390038>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390042> (determine annual energy yield)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390042> "Determine annual energy yield is an action specification that describes how a turbine's power curve is combined with the wind speed distribution to calculate the expected annual energy production.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390042> "determine annual energy yield"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390042> <https://openenergyplatform.org/ontology/oeo/OEO_00390038>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390043> (determine capacity factor)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390043> "Determine capacity factor is an action specification that describes the calculation of the capacity factor (CF), which represents the ratio of actual energy output to the maximum possible output over a given time period.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390043> "determine capacity factor"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390043> <https://openenergyplatform.org/ontology/oeo/OEO_00390038>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390044> (calculate technical potential)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390044> "Calculate technical potential is an action specification that describes how the total energy production capability of the available area is determined, factoring in turbine placement, capacity density, and wake losses.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390044> "calculate technical potential"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390044> <https://openenergyplatform.org/ontology/oeo/OEO_00390038>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390045> (determined wind potential)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390045> "Determined wind potential is an object specification that defines the goal of a methodology as a state of understanding the technical wind potential of the available area.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390045> "determined wind potential"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390045> <http://purl.obolibrary.org/obo/IAO_0000005>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390046> (wind potential determination method)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390046> "Wind potential determination method is a methodology with the goal of calculating the technical wind energy potential within the identified suitable area, considering turbine technology, placement, and energy yield factors.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390046> "wind potential determination method"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390046> <https://openenergyplatform.org/ontology/oeo/OEO_00020166>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390046> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> <https://openenergyplatform.org/ontology/oeo/OEO_00390045>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390046> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> ObjectUnionOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390039> <https://openenergyplatform.org/ontology/oeo/OEO_00390040> <https://openenergyplatform.org/ontology/oeo/OEO_00390041> <https://openenergyplatform.org/ontology/oeo/OEO_00390042> <https://openenergyplatform.org/ontology/oeo/OEO_00390043> <https://openenergyplatform.org/ontology/oeo/OEO_00390044> <https://openenergyplatform.org/ontology/oeo/OEO_00390066>)))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390047> (wind potential determination process)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390047> "Wind potential determination processa is a process that follows a determination methodology for wind potential to gain knowledge of the technical wind potential of the available area.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390047> "wind potential determination process"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390047> <http://purl.obolibrary.org/obo/BFO_0000015>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390047> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00390026> <https://openenergyplatform.org/ontology/oeo/OEO_00390046>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390048> (action specification for techno-economic potential)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390048> "Action specification for techno-economic potential is an action specification that deals with techno-economic potential.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390048> "action specification for techno-economic potential"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390048> <http://purl.obolibrary.org/obo/IAO_0000007>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390049> (determine wind turbine lifetime)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390049> "Determine wind turbine lifetime is an action specification that describes the process of estimating the operational lifespan of a wind turbine, based on design and site-specific conditions.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390049> "determine wind turbine lifetime"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390049> <https://openenergyplatform.org/ontology/oeo/OEO_00390048>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390050> (determine capital expenditures)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390050> "Determine capital expenditures is an action specification that describes the calculation of capital expenditures (CAPEX) required for the installation of wind turbines and associated infrastructure.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390050> "determine capital expenditures"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390050> <https://openenergyplatform.org/ontology/oeo/OEO_00390048>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390051> (determine operational expenditures)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390051> "Determine operational expenditures is an action specification that describes the estimation of ongoing operational expenditures (OPEX) for wind turbines, including routine maintenance and operational management. These include operating and maintenance costs.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390051> "determine operational expenditures"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390051> <https://openenergyplatform.org/ontology/oeo/OEO_00390048>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390052> (determine discount and interest rate)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390052> "Determine discount and interest rate is an action specification that describes the selection of financial discount and interest rates, which are used in the economic analysis to account for the time value of money.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390052> "determine discount and interest rate"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390052> <https://openenergyplatform.org/ontology/oeo/OEO_00390048>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390053> (calculate levelised cost of electricity)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390053> "Calculate levelised cost of electricity is an action specification that describes the computation of the levelised cost of electricity (LCOE) either for individual turbines or for sub-regions within the study area by applying a cost model based on the previously calculated economic parameters and the capacity factors.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390053> "calculate levelised cost of electricity"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390053> <https://openenergyplatform.org/ontology/oeo/OEO_00390048>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390054> (calculate economic potential)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390054> "Calculate economic potential is an action specification that describes the determination of the total economic potential of the available area under a maximum threshold LCOE value.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390054> "calculate economic potential"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390054> <https://openenergyplatform.org/ontology/oeo/OEO_00390048>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390055> (determined techno-economic potential)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390055> "Determined techno-economic potential is an object specification that defines the goal of a methodology as a state of understanding the techno-economic potential of the available region.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390055> "determined techno-economic potential"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390055> <http://purl.obolibrary.org/obo/IAO_0000005>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390056> (techno-economic potential determination method)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390056> "Techno-economic potential determination method is a methodology with the goal of assessing the economic viability of wind energy projects within the available area, based on the technical potential and incorporating cost factors and economic metrics.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390056> "techno-economic potential determination method"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390056> <https://openenergyplatform.org/ontology/oeo/OEO_00020166>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390056> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> <https://openenergyplatform.org/ontology/oeo/OEO_00390054>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390056> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> ObjectUnionOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390049> <https://openenergyplatform.org/ontology/oeo/OEO_00390050> <https://openenergyplatform.org/ontology/oeo/OEO_00390051> <https://openenergyplatform.org/ontology/oeo/OEO_00390052> <https://openenergyplatform.org/ontology/oeo/OEO_00390053> <https://openenergyplatform.org/ontology/oeo/OEO_00390055>)))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390057> (techno-economic potential determination process)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390057> "Techno-economic potential determination process is a process that follows a determination methodology for techno-economic potental to gain knowledge of the techno-economic potential of the available region.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390057> "techno-economic potential determination process"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390057> <http://purl.obolibrary.org/obo/BFO_0000015>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390057> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00390026> <https://openenergyplatform.org/ontology/oeo/OEO_00390056>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390058> (action specification for the feasible potential)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390058> "Action specification for the feasible potential is an action specification that deals with the feasible potential of something.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390058> "action specification for the feasible potential"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390058> <http://purl.obolibrary.org/obo/IAO_0000007>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390059> (apply socio-economic constraints for assessment of potential)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390059> "Apply socio-economic constraints for assessment of potential is an action specification that describes the process of integrating non-technical factors, such as social acceptance, land use regulations, or market conditions, into the potential assessment.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390059> "apply socio-economic constraints for assessment of potential"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390059> <https://openenergyplatform.org/ontology/oeo/OEO_00390058>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390060> (calculate feasible potential)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390060> "Calculate feasible potential is an action specification that describes the calculation of the feasible wind energy potential, considering both technical and socio-economic constraints.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390060> "calculate feasible potential"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390060> <https://openenergyplatform.org/ontology/oeo/OEO_00390058>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390061> (determined feasible potential)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390061> "Determined feasible potential is an object specification that defines the goal of a methodology as a state of understanding the feasible potential of something.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390061> "determined feasible potential"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390061> <http://purl.obolibrary.org/obo/IAO_0000005>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390062> (feasible potental determination method)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390062> "Feasible potental determination method is a methodology with the goal of calculating the wind energy potential that remains after applying additional social, regulatory, or market constraints to the available region.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390062> "feasible potental determination method"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390062> <https://openenergyplatform.org/ontology/oeo/OEO_00020166>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390062> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> <https://openenergyplatform.org/ontology/oeo/OEO_00390061>))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390062> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000051> ObjectUnionOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390059> <https://openenergyplatform.org/ontology/oeo/OEO_00390060>)))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390063> (feasible potental determination process)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390063> "Feasible potential determination process al is a process that follows a determination methodology for feasable potential to gain knowledge of the feasible potential of something.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390063> "feasible potental determination process"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390063> <http://purl.obolibrary.org/obo/BFO_0000015>)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390063> ObjectSomeValuesFrom(<https://openenergyplatform.org/ontology/oeo/OEO_00390026> <https://openenergyplatform.org/ontology/oeo/OEO_00390062>))
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00390066> (determine capacity density)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00390066> "Determine capacity density is an action specification that describes the calculation of the installed capacity per unit area (MW per km²) by assessing the number and power rating of turbines within the available space.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00390066> "determine capacity density"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00390066> <https://openenergyplatform.org/ontology/oeo/OEO_00390038>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00400022> (location of model uncertainty role)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00400022> "Location of model uncertainty role is a role of an entity in which a model uncertainty is located in.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00400022> "location of model uncertainty role"@en)
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00400022> <http://purl.obolibrary.org/obo/BFO_0000023>)
+
+# Class: <https://openenergyplatform.org/ontology/oeo/OEO_00400043> (model uncertainty location)
+
+AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://openenergyplatform.org/ontology/oeo/OEO_00400043> "A model uncertainty location is a continuant that has the role to be a location of model uncertainty.")
+AnnotationAssertion(rdfs:label <https://openenergyplatform.org/ontology/oeo/OEO_00400043> "model uncertainty location"@en)
+EquivalentClasses(<https://openenergyplatform.org/ontology/oeo/OEO_00400043> ObjectIntersectionOf(<http://purl.obolibrary.org/obo/BFO_0000002> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0000087> <https://openenergyplatform.org/ontology/oeo/OEO_00400022>)))
+SubClassOf(<https://openenergyplatform.org/ontology/oeo/OEO_00400043> <http://purl.obolibrary.org/obo/BFO_0000002>)
 
 
 )

@@ -1,0 +1,17 @@
+https://openenergyplatform.org/ontology/oeo/OEO_00390062	# feasible potential determination method
+https://openenergyplatform.org/ontology/oeo/OEO_00390034	# wind farm area determination method	
+https://openenergyplatform.org/ontology/oeo/OEO_00390046	# wind potential determination method
+https://openenergyplatform.org/ontology/oeo/OEO_00390056	# techno-economic potential determination method
+https://openenergyplatform.org/ontology/oeo/OEO_00390002	# wind characteristics determination method
+
+https://openenergyplatform.org/ontology/oeo/OEO_00390061	# determined feasible potential
+https://openenergyplatform.org/ontology/oeo/OEO_00390055	# determined techno-economic potential
+https://openenergyplatform.org/ontology/oeo/OEO_00390004	# determined wind characteristics
+https://openenergyplatform.org/ontology/oeo/OEO_00390033	# determined wind farm area
+https://openenergyplatform.org/ontology/oeo/OEO_00390045	# determined wind potential
+
+https://openenergyplatform.org/ontology/oeo/OEO_00390063	# feasible potential determination process
+https://openenergyplatform.org/ontology/oeo/OEO_00390057	# techno-economic potential determination process
+https://openenergyplatform.org/ontology/oeo/OEO_00390007	# wind characteristics determination process
+https://openenergyplatform.org/ontology/oeo/OEO_00390037	# wind farm area determination process
+https://openenergyplatform.org/ontology/oeo/OEO_00390047	# wind potential determination process
